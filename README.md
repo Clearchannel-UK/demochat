@@ -6,6 +6,7 @@ A self-hosted chat app for small teams or big Gal by [Security Compass][seccom].
 
 #commit 1 - Do a automatic master release
 #
+#
 
 ## Features and Stuff
 
