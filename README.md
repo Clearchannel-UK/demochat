@@ -5,8 +5,6 @@ Demo for Axway
 A self-hosted chat app for small teams or big Gal by [Security Compass][seccom].
 
 #commit 1 - Do a automatic master release
-#commit 2 - Do another automated master release
-#           UAT will be on the first commit after triggering build in the ui
 
 
 ## Features and Stuff
